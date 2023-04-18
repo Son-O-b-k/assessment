@@ -16,7 +16,7 @@
         </template>
     
         <template v-slot:socials>
-        <div class="inline-flex items-center gap-x-5 absolute -bottom-[5rem] pl-3">
+        <div class="inline-flex items-center space-x-5 absolute -bottom-[5rem] pl-3">
         
         <FacebookIcon/>
         <TwitterIcon/>
