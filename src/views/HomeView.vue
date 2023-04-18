@@ -49,7 +49,7 @@
     
     <div class="sm:hidden"><br/><br/></div>
 
-    <div class="pl-3 flex justify-between gap-5 sm:inline-flex">
+    <div class="pl-3 flex justify-between space-x-5 lg:space-x-5 sm:inline-flex">
         <ul class="inline-flex gap-3">
         <li class="font-[400] text-[#6B6B6B] text-[12px]" v-for="(item,i) in menuItems" :key="i">{{item.name}}</li>
         </ul>
